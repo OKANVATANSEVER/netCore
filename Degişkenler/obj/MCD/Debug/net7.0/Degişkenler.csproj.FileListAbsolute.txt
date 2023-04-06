@@ -1,0 +1,15 @@
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\bin\MCD\Debug\net7.0\Degişkenler.exe
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\bin\MCD\Debug\net7.0\Degişkenler.deps.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\bin\MCD\Debug\net7.0\Degişkenler.runtimeconfig.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\bin\MCD\Debug\net7.0\Degişkenler.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\bin\MCD\Debug\net7.0\Degişkenler.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.csproj.AssemblyReference.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.AssemblyInfoInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.AssemblyInfo.cs
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.csproj.CoreCompileInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\refint\Degişkenler.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\Degişkenler.genruntimeconfig.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\Degişkenler\obj\MCD\Debug\net7.0\ref\Degişkenler.dll
