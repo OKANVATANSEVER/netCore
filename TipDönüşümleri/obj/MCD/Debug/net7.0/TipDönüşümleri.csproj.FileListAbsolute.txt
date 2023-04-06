@@ -1,0 +1,5 @@
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\TipDönüşümleri\obj\MCD\Debug\net7.0\TipDönüşümleri.csproj.AssemblyReference.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\TipDönüşümleri\obj\MCD\Debug\net7.0\TipDönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\TipDönüşümleri\obj\MCD\Debug\net7.0\TipDönüşümleri.AssemblyInfoInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\TipDönüşümleri\obj\MCD\Debug\net7.0\TipDönüşümleri.AssemblyInfo.cs
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\TipDönüşümleri\obj\MCD\Debug\net7.0\TipDönüşümleri.csproj.CoreCompileInputs.cache

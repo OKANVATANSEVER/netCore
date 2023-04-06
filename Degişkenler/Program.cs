@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-byte b = 5;     //1byte
+            byte b = 5;     //1byte
             sbyte c = 5;    //1byte
 
             short s = 5;    //2byte
@@ -38,9 +38,9 @@ byte b = 5;     //1byte
             //string ifadeler
 
             string str1 = string.Empty;
-            str1 = "Hüseyin Özkan";
-            string ad = "Hüseyin";
-            string soyad = "Özkan";
+            str1 = "Okan";
+            string ad = "Okan";
+            string soyad = "VATANSEVER";
             string tamIsim = ad + " " + soyad;
             
             //Integer
