@@ -1,0 +1,15 @@
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\bin\MCD\Debug\net7.0\ForLoop.exe
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\bin\MCD\Debug\net7.0\ForLoop.deps.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\bin\MCD\Debug\net7.0\ForLoop.runtimeconfig.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\bin\MCD\Debug\net7.0\ForLoop.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\bin\MCD\Debug\net7.0\ForLoop.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.csproj.AssemblyReference.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.AssemblyInfoInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.AssemblyInfo.cs
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\refint\ForLoop.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ForLoop.genruntimeconfig.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\ForLoop\obj\MCD\Debug\net7.0\ref\ForLoop.dll
