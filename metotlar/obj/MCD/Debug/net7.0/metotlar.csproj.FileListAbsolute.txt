@@ -1,0 +1,15 @@
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\bin\MCD\Debug\net7.0\metotlar.exe
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\bin\MCD\Debug\net7.0\metotlar.deps.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\bin\MCD\Debug\net7.0\metotlar.runtimeconfig.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\bin\MCD\Debug\net7.0\metotlar.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\bin\MCD\Debug\net7.0\metotlar.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.csproj.AssemblyReference.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.AssemblyInfoInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.AssemblyInfo.cs
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.csproj.CoreCompileInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\refint\metotlar.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\metotlar.genruntimeconfig.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\metotlar\obj\MCD\Debug\net7.0\ref\metotlar.dll

@@ -13,18 +13,18 @@ static void Main(string[] args)
             //{
             //komutlar;
             //return;
-            //}
+            //}"
             int a = 2;
             int b = 3;
             Console.WriteLine(a+b);
             int sonuc = Topla(a, b);
-            Console.WriteLine(sonuc);
+            Console.Write("metot a+b=",sonuc);
             Methotlar ornek = new Methotlar();
-            ornek.EkranaYazdır(Convert.ToString(sonuc));
+            ornek.EkranaYazdir(Convert.ToString(sonuc));
            
-            int sonuc2 = ornek.Arttır_Topla(ref a, ref b);
-            ornek.EkranaYazdır(Convert.ToString(sonuc2));
-            ornek.EkranaYazdır(Convert.ToString(a + b));
+            int sonuc2 = ornek.Arttir_Topla(ref a, ref b);
+            ornek.EkranaYazdir(Convert.ToString(sonuc2));
+            ornek.EkranaYazdir( Convert.ToString(a + b));
 
         }
         static int Topla(int deger1, int deger2)
@@ -34,11 +34,11 @@ static void Main(string[] args)
     }
     class Methotlar
     {
-       public void EkranaYazdır(string veri)
+       public void EkranaYazdir(string veri)
         {
             Console.WriteLine(veri);
         }
-        public int Arttır_Topla(ref int deger1,ref int deger2)
+        public int Arttir_Topla(ref int deger1,ref int deger2)
         {
             deger1 += 1;
             deger2 += 1;
