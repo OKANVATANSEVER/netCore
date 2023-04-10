@@ -1,0 +1,15 @@
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\bin\MCD\Debug\net7.0\odev-1.exe
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\bin\MCD\Debug\net7.0\odev-1.deps.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\bin\MCD\Debug\net7.0\odev-1.runtimeconfig.json
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\bin\MCD\Debug\net7.0\odev-1.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\bin\MCD\Debug\net7.0\odev-1.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.csproj.AssemblyReference.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.AssemblyInfoInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.AssemblyInfo.cs
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.csproj.CoreCompileInputs.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\refint\odev-1.dll
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.pdb
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\odev-1.genruntimeconfig.cache
+D:\okan\Geliştirme\Eğitim\CSHARP\netCore\odev-1\obj\MCD\Debug\net7.0\ref\odev-1.dll
