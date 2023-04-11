@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\netCore.csproj": {}
+    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\String-Metottlar\\String-Metottlar.csproj": {}
   },
   "projects": {
-    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\netCore.csproj": {
+    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\String-Metottlar\\String-Metottlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\netCore.csproj",
-        "projectName": "netCore",
-        "projectPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\netCore.csproj",
+        "projectUniqueName": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\String-Metottlar\\String-Metottlar.csproj",
+        "projectName": "String-Metottlar",
+        "projectPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\String-Metottlar\\String-Metottlar.csproj",
         "packagesPath": "C:\\Users\\moody\\.nuget\\packages\\",
-        "outputPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\obj\\",
+        "outputPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\String-Metottlar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
