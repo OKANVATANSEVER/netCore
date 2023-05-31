@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\Degişkenler\\Degişkenler.csproj": {}
+    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj": {}
   },
   "projects": {
-    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\Degişkenler\\Degişkenler.csproj": {
+    "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\Degişkenler\\Degişkenler.csproj",
-        "projectName": "Degişkenler",
-        "projectPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\Degişkenler\\Degişkenler.csproj",
+        "projectUniqueName": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj",
+        "projectName": "StaticSinifveUyeler",
+        "projectPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj",
         "packagesPath": "C:\\Users\\moody\\.nuget\\packages\\",
-        "outputPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\Degişkenler\\obj\\",
+        "outputPath": "D:\\okan\\Geliştirme\\Eğitim\\CSHARP\\netCore\\StaticSinifveUyeler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
