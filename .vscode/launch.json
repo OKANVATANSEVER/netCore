@@ -11,9 +11,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/StaticSinifveUyeler/bin/MCD/Debug/net7.0/StaticSinifveUyeler.dll",
+            "program": "$D:/okan/Geliştirme/Eğitim/CSHARP/netCore/OPP/bin/MCD/Debug/net7.0/OPP.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/StaticSinifveUyeler",
+            "cwd": "D:/okan/Geliştirme/Eğitim/CSHARP/netCore/OPP",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "integratedTerminal",
             "stopAtEntry": false
